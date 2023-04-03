@@ -1,9 +1,8 @@
-# ImageJ macros for processing of confocal images
+# ImageJ macros for confocal images processing
 
-The ImageJ Macro for .czi images processing.ijm is helps to prepare for publication images obtained using Carl Zeiss confocal microscopes.
+The ImageJ [Macro for .czi images processing.ijm]("https://github.com/AlyonaMinina/ImageJ-macros-for-CLSM-files-procesing/blob/main/Macro%20for%20.czi%20images%20processing.ijm") helps to prepare for publication images obtained using Carl Zeiss confocal microscopes.
 
 The script will process all .czi files in a selected folder, export individual channels as separate .png files and create and overlay image of two fluorescent channels with a scale bar.
-
 
 
 **Step by step:**
