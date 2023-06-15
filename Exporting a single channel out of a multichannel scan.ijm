@@ -60,7 +60,6 @@ print(czi_list.length + " images were detected for analysis");
 			title_without_file_extension = substring(title, 0, t-4);
 								
 			//create a ROI for cropping, place it by default in the center 
-			Channel_number = 2;
 			setSlice(Channel_number);
 			run("ROI Manager...");
 			h=getHeight();
